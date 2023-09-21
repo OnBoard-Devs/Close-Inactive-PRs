@@ -7,7 +7,7 @@ An extremely useful JavaScript tool for companies, designed to close PRs that ha
 ## Prerequisites
 
 - JavaScript Compiler
-- `GitHub REST API`
+- [`GitHub REST API`](https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api?apiVersion=2022-11-28)
 - `node-fetch` library (this can be installed using `npm install node-fetch`)
 
 ## Implementation
